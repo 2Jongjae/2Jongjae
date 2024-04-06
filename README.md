@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
 안녕하세요! 백엔드 개발자를 희망하는 이종재입니다.
 
-
+</br>
 
 <div align=center> <h1>🌱 MyGithubIs... 🌱 </h1></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongjae2&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongjae2&layout=compact)
+
+</br>
 </div>
 
 
