@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&section=header&text=&fontSize=0" width="100%"/>
 
 <!--
 **JongJae2/Jongjae2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongjae2&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongjae2&layout=compact)
 
+<div align=center> 
+  
+<div align=center> <h1> 💁‍♂️  Introducition 💁‍♂️   </h1></div>
+
+안녕하세요! 백엔드 개발자를 희망하는 이종재입니다.
+
+
+
+<div align=center> <h1>🌱 MyGithubIs... 🌱 </h1></div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongjae2&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongjae2&layout=compact)
+</div>
 
 
 <div align=center> <h1>✨ STACKS ✨ </h1></div>
@@ -65,9 +76,44 @@ Here are some ideas to get you started:
 
 </div>
 <br></br>
+<div align=center> <h1>⚡ 자격증 ⚡ </h1>
+- 정보처리기사  </br>
+- 컴퓨터활용능력 1급</br>
+- Toeic Speaking IM
+
+</br>
+</br>
+</br>
+<div align=center> <h1>😄 토이프로젝트 😄 </h1>
+1. 운동, 식단 동기부여 SNS 프로젝트 : https://github.com/JongJae2/SSAFY-WebDesign
+
+
+<br></br>
+
+
+
+<div align=center> <h1>  💬 Contact 💬  </h1>
+<span>
+  <a href="https://blog.naver.com/ljj452">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=naver&logoColor=white"/>
+  </a>
+  </br>
+</span>
+ljj452@naver.com
+</br>
+<div align=center> <h1>📫Algo 📫 </h1>
 
 <div align=center>
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongjong2)](https://solved.ac/jongjong2) <img src="http://mazandi.herokuapp.com/api?handle=jongjong2&theme=dark"/>
+
 </div>
+
+</br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongjae2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</br>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&section=footer&text=&fontSize=0" width="100%"/>
