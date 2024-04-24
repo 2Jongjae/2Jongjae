@@ -88,6 +88,7 @@ Here are some ideas to get you started:
 </br>
 <div align=center> <h1>😄 토이프로젝트 😄 </h1>
 1. 운동, 식단 동기부여 SNS 프로젝트 : https://github.com/JongJae2/SSAFY-WebDesign
+  <div></div>
 2. 안전한 약초 채집을 위한 나만의 약초 저장소 Git-Herbs https://github.com/JongJae2/Git-Herbs
 
 <br></br>
