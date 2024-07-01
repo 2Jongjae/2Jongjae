@@ -81,6 +81,8 @@ Here are some ideas to get you started:
 <div align=center> <h1>⚡ 자격증 ⚡ </h1>
 - 정보처리기사  </br>
 - 컴퓨터활용능력 1급</br>
+- SQLD</br>
+- 리눅스마스터2급</br>
 - Toeic Speaking IM
 
 </br>
