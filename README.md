@@ -65,11 +65,12 @@ Here are some ideas to get you started:
 </br>
 </br>
 <div align=center> <h1>😄 프로젝트 😄 </h1>
-1. 운동, 식단 동기부여 SNS 프로젝트 : https://github.com/JongJae2/SSAFY-WebDesign
-  <div></div>
-2. 안전한 약초 채집을 위한 나만의 약초 저장소 Git-Herbs : https://github.com/JongJae2/Git-Herbs
-</div>
-3. 당신의 문해력 지킴이, 심심한 사과 : https://github.com/JongJae2/SSAFYPJT-educationPJT
+
+   운동, 식단 동기부여 SNS 프로젝트 : [MUSCLE-MAKER](https://github.com/JongJae2/SSAFY-WebDesign)<br>
+   안전한 약초 채집을 위한 나만의 약초 저장소 Git-Herbs : [Git-Herbs](https://github.com/JongJae2/Git-Herbs)<br>
+   당신의 문해력 지킴이, 심심한 사과 : [심심한 사과](https://github.com/JongJae2/SSAFYPJT-educationPJT)
+
+
 
 <br></br>
 
