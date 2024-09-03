@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 <div align=center> <h1> 💁‍♂️  Introducition 💁‍♂️   </h1></div>
 
-안녕하세요! 백엔드 개발자를 희망하는 이종재입니다.
+안녕하세요!.
 
 
 </div>
