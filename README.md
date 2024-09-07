@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - 컴퓨터활용능력 1급</br>
 - SQLD</br>
 - 리눅스마스터2급</br>
-- Toeic Speaking IM </br>
+- OPIc IM2 </br>
 - 삼성 B형(Pro)
 
 
