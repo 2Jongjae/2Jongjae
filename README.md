@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 </div>
 </br>
 <div align=center> <h1>🎓 EXPERIENCE 🎓 </h1>
-- 2024.12 ~ NH농협은행 5급 IT 개발 </br>
 - 2024.06 ~ 2024.11 SSAFY 11기 서울 실습코치</br>
 - 2023.07 ~ 2024.06 SSAFY 10기 서울 비전공 Java 수료 </br>
 - 2017.03 ~ 2023.02 대학교 경영학과 졸업</br>
