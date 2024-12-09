@@ -18,10 +18,18 @@ Here are some ideas to get you started:
   
 <div align=center> <h1> 💁‍♂️  Introducition 💁‍♂️   </h1></div>
 
-안녕하세요!.
+안녕하세요!  </br>
+꾸준히 배우고 성장하는   </br>
+개발자 이종재입니다. </br>
 
 
 </div>
+</br>
+<div align=center> <h1>🎓 EXPERIENCE 🎓 </h1>
+- 2024.12 ~ NH농협은행 5급 IT 개발 </br>
+- 2024.06 ~ 2024.11 SSAFY 11기 서울 실습코치</br>
+- 2023.07 ~ 2024.06 SSAFY 10기 서울 비전공 Java 수료 </br>
+- 2017.03 ~ 2023.02 대학교 경영학과 졸업</br>
 
 
 <div align=center> <h1>✨ STACKS ✨ </h1></div>
@@ -65,9 +73,9 @@ Here are some ideas to get you started:
 </br>
 <div align=center> <h1>😄 프로젝트 😄 </h1>
 
-   운동, 식단 동기부여 SNS 프로젝트 : [MUSCLE-MAKER](https://github.com/JongJae2/SSAFY-WebDesign)<br>
-   안전한 약초 채집을 위한 나만의 약초 저장소 Git-Herbs : [Git-Herbs](https://github.com/JongJae2/Git-Herbs)<br>
-   당신의 문해력 지킴이, 심심한 사과 : [심심한 사과](https://github.com/JongJae2/SSAFYPJT-educationPJT)
+   운동, 식단 동기부여 SNS 프로젝트 : [MUSCLE-MAKER](https://github.com/2Jongjae/SSAFYPJT-WebDesign)<br>
+   안전한 약초 채집을 위한 나만의 약초 저장소 Git-Herbs : [Git-Herbs](https://github.com/2Jongjae/SSAFYPJT-Git-Herbs)<br>
+   당신의 문해력 지킴이, 심심한 사과 : [심심한 사과](https://github.com/2Jongjae/SSAFYPJT-Humble-Apoligies)
 
 
 
